@@ -1,4 +1,4 @@
-# 💡 IDEA Cryptography Mini Project
+# 💡 IDEA Cryptography Simulation
 
 IDEA Cryptography Mini Project is a simple application that allows users to encrypt and decrypt messages using a key. It provides a user-friendly interface built with Python's tkinter library and basic encryption and decryption functionalities.
 
